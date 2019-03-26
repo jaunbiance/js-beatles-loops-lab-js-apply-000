@@ -20,7 +20,7 @@ function iLoveTheBeatles(num){
   var resultArr = [];
   var i = num;
   do{
-    resultArr = resultArr.concat(["I love the Beatles!"]);
+    resultArr.push();
     i++;
   }
   while (num<15);
